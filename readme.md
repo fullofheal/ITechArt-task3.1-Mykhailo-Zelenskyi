@@ -46,7 +46,7 @@ import './node_modules/mykhailolib/lib.js';
 ```
 - To install from GitHub:
 ```
-npm install @fullofheal/mykhailolib@1.0.0
+npm install https://github.com/fullofheal/ITechArt-task3.1-Mykhailo-Zelenskyi.git
 ```
 In your .js file use:
 ```

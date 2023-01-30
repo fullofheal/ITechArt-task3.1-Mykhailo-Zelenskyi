@@ -1,4 +1,4 @@
-# Task #3.1. Task #3.1. Library publishing
+# Task #3.1. Library publishing
 
 ## Functionality
 The library provides the following functionality:

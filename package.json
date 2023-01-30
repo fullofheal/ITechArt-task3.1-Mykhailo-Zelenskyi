@@ -1,6 +1,6 @@
 {
   "name": "mykhailolib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "library with custom array and object methods",
   "main": "lib.js",
   "scripts": {

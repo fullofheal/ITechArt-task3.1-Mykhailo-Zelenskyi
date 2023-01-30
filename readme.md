@@ -40,17 +40,13 @@ mykhailoLib.chain([1, 2, 3]).take(2).skip(1).value(); // will return [2]
 ```
 npm install mykhailolib
 ```
-In your .js file use:
-```
-import './node_modules/mykhailolib/lib.js';
-```
 - To install from GitHub:
 ```
 npm install https://github.com/fullofheal/ITechArt-task3.1-Mykhailo-Zelenskyi.git
 ```
 In your .js file use:
 ```
-import './node_modules/@fullofheal/mykhailolib/lib.js';
+import './node_modules/mykhailolib/lib.js';
 ```
 
 

@@ -1,5 +1,5 @@
 {
-  "name": "@fullofheal/mykhailolib",
+  "name": "mykhailolib",
   "version": "1.0.0",
   "description": "library with custom array and object methods",
   "main": "lib.js",
@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/fullofheal/ITechArt-task3.1-Mykhailo-Zelenskyi/issues"
   },
-  "homepage": "https://github.com/fullofheal/ITechArt-task3.1-Mykhailo-Zelenskyi#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "homepage": "https://github.com/fullofheal/ITechArt-task3.1-Mykhailo-Zelenskyi#readme"
 }

@@ -1,11 +1,7 @@
 # Task #3.1. Task #3.1. Library publishing
-## Pre-requirements
-- Participating lecture;
-- Basic JS knowledge;
-- ES6 Features Knowledge.
-## functionality
-The library provides the following functionality:
 
+## Functionality
+The library provides the following functionality:
 
 ```
 Array methods:
@@ -42,16 +38,19 @@ mykhailoLib.chain([1, 2, 3]).take(2).skip(1).value(); // will return [2]
 
 - To install from npmjs:
 ```
-npm i mykhailolib
+npm install mykhailolib
 ```
-- To install from GitHub Packages:
-from the command line:
+In your .js file use:
+```
+import './node_modules/mykhailolib/lib.js';
+```
+- To install from GitHub:
 ```
 npm install @fullofheal/mykhailolib@1.0.0
 ```
-via package.json
+In your .js file use:
 ```
-"@fullofheal/mykhailolib": "1.0.0"
+import './node_modules/@fullofheal/mykhailolib/lib.js';
 ```
 
 

@@ -1,0 +1,22 @@
+{
+  "name": "@fullofheal/mykhailolib",
+  "version": "1.0.0",
+  "description": "library with custom array and object methods",
+  "main": "lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullofheal/ITechArt-task3.1-Mykhailo-Zelenskyi.git"
+  },
+  "author": "Mykhailo Zelenskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fullofheal/ITechArt-task3.1-Mykhailo-Zelenskyi/issues"
+  },
+  "homepage": "https://github.com/fullofheal/ITechArt-task3.1-Mykhailo-Zelenskyi#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
